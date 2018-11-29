@@ -23,6 +23,7 @@
     },
     "require": {
        "omnipay/common": "^3"
+       "razorpay/razorpay": "2.*"
     },
     "require-dev": {
         "omnipay/tests": "^3",
